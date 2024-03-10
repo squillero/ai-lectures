@@ -1,5 +1,7 @@
 # AI Lectures
 
+> [https://github.com/squillero/ai-lectures](https://github.com/squillero/ai-lectures)
+
 A collection of slides on Computational Intelligence, Machine Learning, and Soft Computing from my Politecnico lectures and other speeches.
 
 **Copyright © 2024 by Giovanni Squillero**
